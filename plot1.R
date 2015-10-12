@@ -7,6 +7,9 @@
 ## Github: gothub.com/mwapemble
 ## Course: exdata-033, 5 Oct 15
 
+## Readme file with more detailed comments and Acknowledgements
+## https://github.com/mwapemble/ExploratoryDataAnalysisProject2/blob/master/README.md
+
 ## First, initialise variables 
 
 fileUrl <- "https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2FNEI_data.zip"
