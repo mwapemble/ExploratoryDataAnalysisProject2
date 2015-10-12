@@ -4,7 +4,7 @@
 ## Coursera course.
 ##
 ## Author: Matthew Pemble
-## Github: gothub.com/mwapemble
+## Github: github.com/mwapemble
 ## Course: exdata-033, 5 Oct 15
 
 ## Readme file with more detailed comments and Acknowledgements
